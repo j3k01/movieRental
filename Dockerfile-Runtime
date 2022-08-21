@@ -1,0 +1,4 @@
+FROM mcr.microsoft.com/dotnet/aspnet:6.0
+COPY . /publish /app
+WORKDIR /app
+CMD ASPNETCORE_URLS=http://*:$PORT dotnet movieRental.Api.dll

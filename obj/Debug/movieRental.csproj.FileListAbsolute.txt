@@ -1,0 +1,3 @@
+C:\Users\koste\source\repos\movieRental\movieRental\obj\Debug\movieRental.csproj.AssemblyReference.cache
+C:\Users\koste\source\repos\movieRental\movieRental\obj\Debug\movieRental.csproj.SuggestedBindingRedirects.cache
+C:\Users\koste\source\repos\movieRental\movieRental\obj\Debug\movieRental.csproj.CoreCompileInputs.cache

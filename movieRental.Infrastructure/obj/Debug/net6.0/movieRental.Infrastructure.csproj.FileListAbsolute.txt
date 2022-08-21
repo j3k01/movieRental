@@ -1,0 +1,12 @@
+C:\Users\koste\source\repos\movieRental\movieRental.Infrastructure\bin\Debug\net6.0\movieRental.Infrastructure.deps.json
+C:\Users\koste\source\repos\movieRental\movieRental.Infrastructure\bin\Debug\net6.0\movieRental.Infrastructure.dll
+C:\Users\koste\source\repos\movieRental\movieRental.Infrastructure\bin\Debug\net6.0\movieRental.Infrastructure.pdb
+C:\Users\koste\source\repos\movieRental\movieRental.Infrastructure\obj\Debug\net6.0\movieRental.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\koste\source\repos\movieRental\movieRental.Infrastructure\obj\Debug\net6.0\movieRental.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koste\source\repos\movieRental\movieRental.Infrastructure\obj\Debug\net6.0\movieRental.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\koste\source\repos\movieRental\movieRental.Infrastructure\obj\Debug\net6.0\movieRental.Infrastructure.AssemblyInfo.cs
+C:\Users\koste\source\repos\movieRental\movieRental.Infrastructure\obj\Debug\net6.0\movieRental.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\koste\source\repos\movieRental\movieRental.Infrastructure\obj\Debug\net6.0\movieRental.Infrastructure.dll
+C:\Users\koste\source\repos\movieRental\movieRental.Infrastructure\obj\Debug\net6.0\refint\movieRental.Infrastructure.dll
+C:\Users\koste\source\repos\movieRental\movieRental.Infrastructure\obj\Debug\net6.0\movieRental.Infrastructure.pdb
+C:\Users\koste\source\repos\movieRental\movieRental.Infrastructure\obj\Debug\net6.0\ref\movieRental.Infrastructure.dll

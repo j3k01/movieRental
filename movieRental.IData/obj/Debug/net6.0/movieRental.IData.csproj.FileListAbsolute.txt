@@ -1,0 +1,15 @@
+C:\Users\koste\source\repos\movieRental\movieRental.IData\bin\Debug\net6.0\movieRental.IData.deps.json
+C:\Users\koste\source\repos\movieRental\movieRental.IData\bin\Debug\net6.0\movieRental.IData.dll
+C:\Users\koste\source\repos\movieRental\movieRental.IData\bin\Debug\net6.0\movieRental.IData.pdb
+C:\Users\koste\source\repos\movieRental\movieRental.IData\bin\Debug\net6.0\movieRental.Domain.dll
+C:\Users\koste\source\repos\movieRental\movieRental.IData\bin\Debug\net6.0\movieRental.Domain.pdb
+C:\Users\koste\source\repos\movieRental\movieRental.IData\obj\Debug\net6.0\movieRental.IData.csproj.AssemblyReference.cache
+C:\Users\koste\source\repos\movieRental\movieRental.IData\obj\Debug\net6.0\movieRental.IData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koste\source\repos\movieRental\movieRental.IData\obj\Debug\net6.0\movieRental.IData.AssemblyInfoInputs.cache
+C:\Users\koste\source\repos\movieRental\movieRental.IData\obj\Debug\net6.0\movieRental.IData.AssemblyInfo.cs
+C:\Users\koste\source\repos\movieRental\movieRental.IData\obj\Debug\net6.0\movieRental.IData.csproj.CoreCompileInputs.cache
+C:\Users\koste\source\repos\movieRental\movieRental.IData\obj\Debug\net6.0\movieRental.IData.csproj.CopyComplete
+C:\Users\koste\source\repos\movieRental\movieRental.IData\obj\Debug\net6.0\movieRental.IData.dll
+C:\Users\koste\source\repos\movieRental\movieRental.IData\obj\Debug\net6.0\refint\movieRental.IData.dll
+C:\Users\koste\source\repos\movieRental\movieRental.IData\obj\Debug\net6.0\movieRental.IData.pdb
+C:\Users\koste\source\repos\movieRental\movieRental.IData\obj\Debug\net6.0\ref\movieRental.IData.dll

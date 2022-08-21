@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\movieRenta.Data.Sql\movieRental.Data.Sql.csproj" />
+    <ProjectReference Include="..\movieRental.Common\movieRental.Common.csproj" />
+    <ProjectReference Include="..\movieRental.IData\movieRental.IData.csproj" />
+    <ProjectReference Include="..\movieRental.IServices\movieRental.IServices.csproj" />
+    <ProjectReference Include="..\movieRental.Services\movieRental.Services.csproj" />
+  </ItemGroup>
+
+</Project>

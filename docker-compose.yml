@@ -1,0 +1,18 @@
+#wersja docker compose
+version: '3.3'
+
+#lista serwisów, które składają się na "kompozycję" (nie wiem jak to po polsku nazwać) 
+services:
+  #nazwa pierwszego serwisu (baza danych)
+  maria_db:
+    #obraz dockerowy (jeżeli nie ma takiego lokalnie, to pobierze z internetu z docker hub)
+    image: mariadb
+    #ustawienie automatycznego restartu kontenera po jego wyłączeniu 
+    restart: always
+    #ustawienie zmiennych środowiskowych 
+    environment:
+      #ustawienie hasła dla użytkownika root
+      MYSQL_ROOT_PASSWORD: root
+    #ustawienie portu (pierwszy odpowiada za port na komputerze/serwerze drugi za port w kontenerze)
+    ports:
+      - 3307:3306

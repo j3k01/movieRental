@@ -1,0 +1,12 @@
+C:\Users\koste\source\repos\movieRental\movieRental.Common\bin\Debug\net6.0\movieRental.Common.deps.json
+C:\Users\koste\source\repos\movieRental\movieRental.Common\bin\Debug\net6.0\movieRental.Common.dll
+C:\Users\koste\source\repos\movieRental\movieRental.Common\bin\Debug\net6.0\movieRental.Common.pdb
+C:\Users\koste\source\repos\movieRental\movieRental.Common\obj\Debug\net6.0\movieRental.Common.csproj.AssemblyReference.cache
+C:\Users\koste\source\repos\movieRental\movieRental.Common\obj\Debug\net6.0\movieRental.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koste\source\repos\movieRental\movieRental.Common\obj\Debug\net6.0\movieRental.Common.AssemblyInfoInputs.cache
+C:\Users\koste\source\repos\movieRental\movieRental.Common\obj\Debug\net6.0\movieRental.Common.AssemblyInfo.cs
+C:\Users\koste\source\repos\movieRental\movieRental.Common\obj\Debug\net6.0\movieRental.Common.csproj.CoreCompileInputs.cache
+C:\Users\koste\source\repos\movieRental\movieRental.Common\obj\Debug\net6.0\movieRental.Common.dll
+C:\Users\koste\source\repos\movieRental\movieRental.Common\obj\Debug\net6.0\refint\movieRental.Common.dll
+C:\Users\koste\source\repos\movieRental\movieRental.Common\obj\Debug\net6.0\movieRental.Common.pdb
+C:\Users\koste\source\repos\movieRental\movieRental.Common\obj\Debug\net6.0\ref\movieRental.Common.dll

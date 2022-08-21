@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "movieRental.Services/1.0.0": {
+        "dependencies": {
+          "movieRental.Domain": "1.0.0",
+          "movieRental.IData": "1.0.0",
+          "movieRental.IServices": "1.0.0"
+        },
+        "runtime": {
+          "movieRental.Services.dll": {}
+        }
+      },
+      "movieRental.Domain/1.0.0": {
+        "runtime": {
+          "movieRental.Domain.dll": {}
+        }
+      },
+      "movieRental.IData/1.0.0": {
+        "dependencies": {
+          "movieRental.Domain": "1.0.0"
+        },
+        "runtime": {
+          "movieRental.IData.dll": {}
+        }
+      },
+      "movieRental.IServices/1.0.0": {
+        "dependencies": {
+          "movieRental.Domain": "1.0.0"
+        },
+        "runtime": {
+          "movieRental.IServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "movieRental.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "movieRental.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "movieRental.IData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "movieRental.IServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
